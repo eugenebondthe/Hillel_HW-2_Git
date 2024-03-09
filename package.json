@@ -1,0 +1,11 @@
+{
+  "name": "hillel_hw-2_js_start",
+  "version": "1.0.0",
+  "description": "1. Create your personal mini project based on node.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eugene Bond",
+  "license": "ISC"
+}
